@@ -1,2 +1,2 @@
-account_sid='AC71c270c32b9095aa79bcfe319c3b1f39'
-token='d17a357acfd6f54de962d3bcf5ab70b9'
+account_sid=''
+token=''
